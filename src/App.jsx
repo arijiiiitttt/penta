@@ -186,8 +186,8 @@ function App() {
               </div>
             </div>
           )}
-
           {/* Output Section */}
+           class r maj maj chana barobo then 5-10 min ghura kotha bola abr chola jabo tor classes o hoi jaba graphs o 
           {asciiArt && (
             <div className="border-t border-gray-700">
               {/* Controls */}
