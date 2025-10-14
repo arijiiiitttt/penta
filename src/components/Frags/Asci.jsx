@@ -3,7 +3,7 @@ import { Download, Copy, Sun, Moon, Upload } from 'lucide-react';
 
 const ASCII_CHARS = ['@', '#', 'S', '%', '?', '*', '+', ';', ':', ',', '.', ' '];
 
-function App() {
+function Asci() {
   const canvasRef = useRef(null);
   const outputRef = useRef(null);
   const [asciiArt, setAsciiArt] = useState('');
